@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Rajkumar Patel! 👋
 
-<!--
-**PatelRajkumar/PatelRajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | JavaScript | React | Node.js | TypeScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- JavaScript (ES6+), TypeScript
+- React.js, Redux, Material UI, Tailwind CSS, Node.js, Nest.js, Firebase
+- MongoDB
+- Git, Postman, VS Code, IntelliJ
+- Agile Development, Software Engineering, Data Structures & Algorithms
+
+---
+
+## 💼 Experience
+
+I have experience in building scalable web applications, working with modern JavaScript frameworks, and implementing best practices in software development.
+---
+
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/rajkumar3601/)
+- 💻 [GitHub](https://github.com/PatelRajkumar)
+- 📝 [LeetCode](https://leetcode.com/u/RK3601/)
+
+---
+## 🚀 Highlights
+
+- Mentored junior developers and interns
+- Passionate about problem-solving and algorithmic challenges
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Information Technology**
+
+---
+
+## 🎵 Interests
+
+🎧 Music | 🎙 Podcasts | 📚 Reading
+
+---
+
+
+### Thanks for visiting! Let's build something amazing together. 🚀
